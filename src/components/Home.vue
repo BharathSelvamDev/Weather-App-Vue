@@ -136,14 +136,3 @@ export default {
   margin-top: 15px;
 }
 </style>
-
-alpha\vue.config.js
-
-module.exports = {
-  devServer: {
-    host: 'localhost',
-  },
-  transpileDependencies: [
-    'vuetify'
-  ]
-}
